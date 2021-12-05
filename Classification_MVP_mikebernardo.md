@@ -9,7 +9,9 @@
 
 ![](prelim_data.png) 
 <h3>Initial Findings:</h3> Using Logistic Regression and kNN, my models suggest that using Sex, pClass and Embarkment were the best features to determine survivability. 
+
 ![](prelim_results.png) 
+
 ![](prelim_roc.png) 
 
 <h3>Next Steps:</h3> Moving forward, I will be perform more feature engineering to attempt to improve model scores. I will also be employing more techniques such as Random Forest, Gradient Boosting. 
