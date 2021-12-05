@@ -8,7 +8,7 @@
 <h3>Process:</h3> I used the Kaggle dataset with 891 rows (training data) of passenger features with a mix of quantitative and qualitative features. Some data transformation and one-hot encoding was needed to deal with categorical data. I performed EDA and some feature engineering to create models using kNN, Random Forest, Logistic Regression and others. 
 
 ![](prelim_data.png) 
-<h3>Initial Findings:</h3> Using Logistic Regression and kNN, my models suggest that using Sex, pClass and Embarkment were the best features to determine survivability. 
+<h3>Initial Findings:</h3> Using Logistic Regression and kNN, my models suggest that using Sex (Gender), pClass and Embarkment(Origin) were the best features to determine survivability. 
 
 ![](prelim_results.png) 
 
